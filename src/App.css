@@ -77,6 +77,16 @@ form button:hover {
 .complete-btn {
   background: green;
 }
+
+.complete-btn:hover {
+  background: gray;  
+}
+
+.trash-btn:hover {
+  background: gray;
+}
+
+
 .todo-item {
   padding: 0rem 0.5rem;
 }
@@ -92,9 +102,8 @@ form button:hover {
 }
 
 .completed {
-  text-decoration: line-through;
+  text-decoration: line-through 2;
   text-decoration: purple;
-  opacity: 0,5;
 }
 
 /*CUSTOM SELECTOR */
