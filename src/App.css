@@ -91,9 +91,9 @@ form button:hover {
   opacity: 0;
 }
 
-.Completed {
+.completed {
   text-decoration: line-through;
-  text-decoration: rgb(143, 114, 114);
+  text-decoration: purple;
   opacity: 0,5;
 }
 
